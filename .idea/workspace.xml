@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cec92d01-1068-4edc-9560-0ac2961532f4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaskManagementWithDbPersistence/src/main/java/com/fourimpact/TaskManagementWithDbPersistence/Controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/TaskManagementWithDbPersistence/src/main/java/com/fourimpact/TaskManagementWithDbPersistence/Controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaskManagementWithDbPersistence/src/main/java/com/fourimpact/TaskManagementWithDbPersistence/Repository/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/TaskManagementWithDbPersistence/src/main/java/com/fourimpact/TaskManagementWithDbPersistence/Repository/TaskRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaskManagementWithDbPersistence/src/main/java/com/fourimpact/TaskManagementWithDbPersistence/Service/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TaskManagementWithDbPersistence/src/main/java/com/fourimpact/TaskManagementWithDbPersistence/Service/TaskService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaskManagementWithDbPersistence/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TaskManagementWithDbPersistence/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskManagementWithDbPersistence/src/main/resources/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/TaskManagementWithDbPersistence/src/main/resources/templates/list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +108,7 @@
       <workItem from="1776834927576" duration="3036000" />
       <workItem from="1776908821983" duration="2901000" />
       <workItem from="1776924363357" duration="2215000" />
-      <workItem from="1776931166968" duration="3782000" />
+      <workItem from="1776931166968" duration="4110000" />
     </task>
     <servers />
   </component>
