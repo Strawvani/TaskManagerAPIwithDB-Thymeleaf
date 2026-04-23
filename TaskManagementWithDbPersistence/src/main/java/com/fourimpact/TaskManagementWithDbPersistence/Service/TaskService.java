@@ -81,6 +81,11 @@ public class TaskService {
         return taskRepository.findByUser_Id(Id,pageable).map(this::toResponse);
     }
 
+    @Transactional(readOnly = true)
+    public List<Task> getAllTasks(){
+        return taskRepository.findAllBy();
+    }
+
     // Update
     public TaskResponse updateTask(Long Id, CreateTaskRequest request){
         Task task = taskRepository.findById(Id).orElseThrow(
